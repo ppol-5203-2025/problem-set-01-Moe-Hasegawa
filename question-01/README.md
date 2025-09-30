@@ -4,7 +4,7 @@ This is the data and code for replication of the result of the report written by
 
 ## Tutorial 
 
-This README file provides an overview of the replications materials for the article. The R codes used in the article can be found under the folder **Codes**. The data that allow for a replication of the data sources used in the articlesis under the folder **data**. All the images for the main paper are available at the folder **output**.
+This README file provides an overview of the replications materials for the article. The Python codes used in the article can be found under the folder **Codes**. The data that allow for a replication of the data sources used in the articlesis under the folder **data**. All the images for the main paper are available at the folder **output**.
 
 ## Codes
 
